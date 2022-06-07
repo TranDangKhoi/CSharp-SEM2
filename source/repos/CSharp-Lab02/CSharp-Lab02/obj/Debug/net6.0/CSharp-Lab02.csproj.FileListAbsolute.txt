@@ -1,0 +1,15 @@
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\bin\Debug\net6.0\CSharp-Lab02.exe
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\bin\Debug\net6.0\CSharp-Lab02.deps.json
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\bin\Debug\net6.0\CSharp-Lab02.runtimeconfig.json
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\bin\Debug\net6.0\CSharp-Lab02.dll
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\bin\Debug\net6.0\CSharp-Lab02.pdb
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\obj\Debug\net6.0\CSharp-Lab02.csproj.AssemblyReference.cache
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\obj\Debug\net6.0\CSharp-Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\obj\Debug\net6.0\CSharp-Lab02.AssemblyInfoInputs.cache
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\obj\Debug\net6.0\CSharp-Lab02.AssemblyInfo.cs
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\obj\Debug\net6.0\CSharp-Lab02.csproj.CoreCompileInputs.cache
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\obj\Debug\net6.0\CSharp-Lab02.dll
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\obj\Debug\net6.0\refint\CSharp-Lab02.dll
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\obj\Debug\net6.0\CSharp-Lab02.pdb
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\obj\Debug\net6.0\CSharp-Lab02.genruntimeconfig.cache
+C:\Users\HP Victus\source\repos\CSharp-Lab02\CSharp-Lab02\obj\Debug\net6.0\ref\CSharp-Lab02.dll
