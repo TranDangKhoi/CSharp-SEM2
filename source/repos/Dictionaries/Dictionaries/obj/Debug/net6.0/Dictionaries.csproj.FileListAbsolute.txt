@@ -1,0 +1,5 @@
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.AssemblyReference.cache
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfo.cs
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.CoreCompileInputs.cache
