@@ -1,0 +1,22 @@
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\bin\Debug\net6.0\CRUD In CSharp.exe
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\bin\Debug\net6.0\CRUD In CSharp.deps.json
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\bin\Debug\net6.0\CRUD In CSharp.runtimeconfig.json
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\bin\Debug\net6.0\CRUD In CSharp.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\bin\Debug\net6.0\CRUD In CSharp.pdb
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\obj\Debug\net6.0\CRUD In CSharp.csproj.AssemblyReference.cache
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\obj\Debug\net6.0\CRUD In CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\obj\Debug\net6.0\CRUD In CSharp.AssemblyInfoInputs.cache
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\obj\Debug\net6.0\CRUD In CSharp.AssemblyInfo.cs
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\obj\Debug\net6.0\CRUD In CSharp.csproj.CoreCompileInputs.cache
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\obj\Debug\net6.0\CRUD In CSharp.csproj.CopyComplete
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\obj\Debug\net6.0\CRUD In CSharp.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\obj\Debug\net6.0\refint\CRUD In CSharp.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\obj\Debug\net6.0\CRUD In CSharp.pdb
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\obj\Debug\net6.0\CRUD In CSharp.genruntimeconfig.cache
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\CSharp-SEM2\source\repos\CRUD In CSharp\CRUD In CSharp\obj\Debug\net6.0\ref\CRUD In CSharp.dll
