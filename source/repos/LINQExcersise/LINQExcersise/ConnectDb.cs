@@ -3,11 +3,13 @@ using System.Data.SqlClient;
 
 
 namespace LINQExcersise {
-    class ConnectDb
+    internal class ConnectDb
     {
-        public SqlConnection GetSqlConnection
+        public SqlConnection GetSqlConnection()
         {
-
+            string ConnectionString = "Data source = localhost; " + "Initial Catalog = FroggyInc; User = sa; password =sa;";
+            SqlConnection sqlConnection = new SqlConnection(ConnectionString);
+            return sqlConnection;
         }
     }
 }

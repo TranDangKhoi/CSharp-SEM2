@@ -10,6 +10,11 @@ namespace LINQExcersise
     {
         public int employeeID { get; set; }
         public string employeeName { get; set; }
-        public int employeeAge { get; set; }
+        public int projectID { get; set; }
+
+        public string toString()
+        {
+            return "Employee's ID:" + employeeID + "\n" + "Employee's Name:" + employeeName + "\n" + "Project's ID: " + projectID;
+        }
     }
 }
